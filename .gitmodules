@@ -1,0 +1,6 @@
+[submodule "Terraform_modules"]
+	path = Terraform_modules
+	url = https://github.com/masthan6526/Terraform_modules.git
+[submodule "pract"]
+	path = pract
+	url = https://github.com/masthan6526/Terraform_modules.git
